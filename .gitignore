@@ -1,0 +1,14 @@
+*.iml
+.gradle
+/local.properties
+/.idea
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+
+# Project exclude paths
+/openCVLibrary3413/build/
+/openCVLibrary3413/build/intermediates/javac/debug/classes/
